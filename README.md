@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Supriya0029/Supriya0029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
